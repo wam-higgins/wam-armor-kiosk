@@ -1,4 +1,4 @@
-# WAM Sword Kiosk
+# WAM Armor Kiosk
     
 The kiosk uses Kiosk Pro Plus to operate and runs entirely from local files within the Kiosk Pro Plus app stored on the iPad.
 
@@ -11,8 +11,8 @@ In order to update:
 
 To upload/change videos:
 All videos are stored locally on the iPad. Video files should be named as follows: 
-top left -> swords-1.mp4
-top right-> swords-2.mp4
-bottom left -> swords-3.mp4
-bottom right -> swords-4.mp4
+top left -> armor-1.mp4
+top right-> armor-2.mp4
+bottom left -> armor-3.mp4
+bottom right -> armor-4.mp4
 *videos must be named accordingly and be in mp4 format in order to be read
